@@ -11,3 +11,5 @@ CC104 Week 6 Exercise
 Author
 
 Jasmine Nicomedez
+
+Updated README on feature-update branch.
