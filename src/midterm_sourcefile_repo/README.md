@@ -16,3 +16,9 @@ Jasmine Nicomedez
 Updated README on feature-update branch.
 
 Repository maintenance and source code organization.
+
+## How to Run
+
+1. Open the project folder in Visual Studio Code.
+2. Open the JavaScript file you want to run.
+3. Run the file using Node.js in the terminal.
