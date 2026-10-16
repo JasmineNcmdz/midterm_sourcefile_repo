@@ -8,8 +8,11 @@ Lesson 1 Part 1
 Lesson 1 Part 2
 Array Exercise
 CC104 Week 6 Exercise
+
 Author
 
 Jasmine Nicomedez
 
 Updated README on feature-update branch.
+
+Repository maintenance and source code organization.
