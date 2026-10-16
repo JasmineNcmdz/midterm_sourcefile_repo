@@ -22,3 +22,9 @@ Repository maintenance and source code organization.
 1. Open the project folder in Visual Studio Code.
 2. Open the JavaScript file you want to run.
 3. Run the file using Node.js in the terminal.
+
+## Midterm Submission
+
+All JavaScript source files are organized by lesson.
+This repository demonstrates Git version control,
+branching, merging, cloning, and remote synchronization.
